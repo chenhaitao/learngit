@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 sdfsdfsdlgjsd
 
 
@@ -17,9 +17,6 @@ a
 s
 h
 sggsg
-=======
-123343546475756868569dgsg
->>>>>>> work
 dlfjldsjlfldsjgljsdg
 
 
