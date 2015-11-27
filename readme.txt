@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-123456
-=======
-qqqqqqqqqq
->>>>>>> work
+
 sdfsdfsdlgjsd
 
 
